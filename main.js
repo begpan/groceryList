@@ -131,7 +131,7 @@ function clearItems() {
   }
   container.classList.remove("show-container")
   setBackToDefault()
-  displayAlert("liste boş","success")
+  displayAlert("List is empty","success")
 }
 
 // yerel depoya oge ekleme işlemi
