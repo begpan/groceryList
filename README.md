@@ -9,5 +9,7 @@ Grocery List created with HTML, CSS and JS.
 
 <h2>Screen Gif</h2>
 
+![grocerylist](https://github.com/begpan/groceryList/assets/145170180/ce5d9bf4-231c-4f40-83ce-965c3f80b9ef)
+
 
 
